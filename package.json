@@ -1,6 +1,6 @@
 {
   "name": "ptwd-helloworld",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A simple VueJS Hello World Component",
   "main": "dist/ptwd-helloworld.js",
   "scripts": {
